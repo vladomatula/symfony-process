@@ -1,5 +1,5 @@
 {
-    "name": "symfony/process",
+    "name": "vladomatula/symfony-process",
     "type": "library",
     "description": "Executes commands in sub-processes",
     "keywords": [],
@@ -13,6 +13,10 @@
         {
             "name": "Symfony Community",
             "homepage": "https://symfony.com/contributors"
+        },
+        {
+            "name": "Vladimir Matula",
+            "email": "matula.vl96@gmail.com"
         }
     ],
     "require": {
